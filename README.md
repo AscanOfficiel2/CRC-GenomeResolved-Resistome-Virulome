@@ -121,17 +121,17 @@ feature stability using shared and unshared species frameworks.
 
 ## Core Tools
 
--   MEGAHIT\
--   MetaBAT2\
--   dRep\
--   GTDB-Tk\
--   CheckM2\
--   QUAST\
--   BBTools\
--   FastQ Screen\
--   Nonpareil\
--   RGI (CARD)\
--   DIAMOND (VFDB)\
+-   MEGAHIT
+-   MetaBAT2
+-   dRep
+-   GTDB-Tk
+-   CheckM2
+-   QUAST
+-   BBTools
+-   FastQ Screen
+-   Nonpareil
+-   RGI (CARD)
+-   DIAMOND (VFDB)
 -   CoverM
 
 ## Programming Environments
