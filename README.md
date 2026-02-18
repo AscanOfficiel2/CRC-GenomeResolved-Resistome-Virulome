@@ -25,7 +25,7 @@ associated with colorectal cancer (CRC) progression.
     04_Species_analysis/
 
 Each module corresponds to a major analytical stage. Below is a concise
-description of the purpose of each module and the scripts it contains.The modules and their scripts have been numbered in sequencial order to facilitate sequential execution for the user.
+description of the purpose of each module and the scripts it contains.The modules and their scripts have been numbered in sequencial order to facilitate stepwise execution for the user.
 
 ------------------------------------------------------------------------
 
@@ -147,7 +147,7 @@ Exact software versions are specified in the manuscript Methods section.
 
 All sequencing datasets analyzed in this study are publicly available
 through the **NCBI Sequence Read Archive (SRA)**.\
-Accession numbers are provided in Supplementary Data S1.
+Accession numbers are provided in Supplementary Data S1 (In manuscript) and also uploaded in this repository as "SRA_meta_Data".
 
 ------------------------------------------------------------------------
 
