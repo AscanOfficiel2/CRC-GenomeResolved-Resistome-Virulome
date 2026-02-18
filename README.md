@@ -11,9 +11,7 @@ in:
 *Resistance-enriched latent functional organization of the gut
 microbiome underlies colorectal cancer progression (under review).*
 
-The pipeline performs genome-resolved metagenomic reconstruction,
-resistance and virulence profiling, and latent functional modeling
-associated with colorectal cancer (CRC) progression.
+The pipeline enables genome-resolved metagenomic reconstruction, resistance and virulence profiling, and latent functional modeling associated with colorectal cancer (CRC) progression. All metagenomic project accession numbers, sample identifiers, and associated metadata used in this study are provided to facilitate transparency and full reproducibility of the analyses.
 
 ------------------------------------------------------------------------
 
